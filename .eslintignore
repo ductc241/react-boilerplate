@@ -3,3 +3,4 @@ dist
 .husky
 vite.config.ts
 commitlint.config.cjs
+.storybook
