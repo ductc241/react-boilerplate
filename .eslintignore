@@ -1,0 +1,5 @@
+build
+dist
+.husky
+vite.config.ts
+commitlint.config.cjs
