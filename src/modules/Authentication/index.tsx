@@ -1,12 +1,12 @@
-import { Button, TextInput } from '@components'
+import { Button, TextInput } from '@components';
 
-const Login = () => {
+function Login() {
   return (
     <>
       <Button />
       <TextInput />
     </>
-  )
+  );
 }
 
-export default Login
+export default Login;

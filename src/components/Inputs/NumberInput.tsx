@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const NumberInput = () => {
-  return (
-    <div>NumberInput</div>
-  )
+function NumberInput() {
+  return <div>NumberInput</div>;
 }
 
-export default NumberInput
+export default NumberInput;

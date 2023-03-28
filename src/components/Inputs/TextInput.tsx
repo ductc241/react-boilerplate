@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const TextInput = () => {
-  return (
-    <div>TextInput</div>
-  )
+function TextInput() {
+  return <div>TextInput</div>;
 }
 
-export default TextInput
+export default TextInput;

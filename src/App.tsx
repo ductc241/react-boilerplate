@@ -1,9 +1,7 @@
-import Login from '@modules/Authentication'
+import Login from '@modules/Authentication';
 
 function App() {
-  return (
-    <Login />
-  )
+  return <Login />;
 }
 
-export default App
+export default App;
